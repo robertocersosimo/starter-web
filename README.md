@@ -4,9 +4,9 @@ This repository is for showing how Git and GitHub work
 dududududu
 
 ## Introduction
-
+intro text
 ## Purpose
-
+purpose text
 ##Deployment
 deployment textt
 ## How to contribute
