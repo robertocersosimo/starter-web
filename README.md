@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-dududududu. Adding a line for rebasing example. more chenges from myfeatrue too
-
+dududududu. update a line emergency line after stash
 ## Introduction
 intro text
 ## Purpose
