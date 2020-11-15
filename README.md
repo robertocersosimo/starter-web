@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 copyrightshit
 
 please fork this repo and blabla
+
+all rights reserved
